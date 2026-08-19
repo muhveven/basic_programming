@@ -47,7 +47,7 @@ Mata kuliah ini membahas fundamental pemrograman (logika, struktur data, algorit
 
 ---
 
-## IV. COURSE LEARNING OUTCOMES (CLOs) `[REVISI]`
+## IV. COURSE LEARNING OUTCOMES (CLOs)
 
 Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
 
@@ -111,7 +111,7 @@ This course covers programming fundamentals (logic, data structures, algorithms)
 
 ---
 
-## IV. COURSE LEARNING OUTCOMES (CLOs) `[REVISI]`
+## IV. COURSE LEARNING OUTCOMES (CLOs)`
 
 Upon completion of this course, the student will be able to:
 
