@@ -53,7 +53,7 @@ Setelah mengikuti pertemuan ini, mahasiswa mampu:
 
 ### B. Mengapa Python untuk Rekayasa Pembangkit? + Sejarah & Perbandingan Python (25 menit)
 
-**B.1 Konteks industri (5 menit)**
+**B.1 Konteks industri (5-menit)**
 
 Poin diskusi singkat (bisa disertai gambar/contoh dashboard):
 
