@@ -256,8 +256,8 @@ Mahasiswa diminta mencoba di rumah: membuat program yang meminta 4 data operasi 
 
 ## 7. Perlengkapan yang Perlu Disiapkan Dosen
 
-- [ ] Notebook Colab template kosong (link dibagikan sebelum kelas)
-- [ ] Slide singkat: alur besar mata kuliah (peta CLO-1 s/d CLO-5) + contoh dashboard data pembangkit untuk bagian B
-- [ ] Soal diagnostik (bisa via Mentimeter/Google Form/kertas)
-- [ ] Lembar instruksi studi kasus berpasangan (bagian H) — bisa dicetak atau dibagikan lewat LMS
-- [ ] Link pengumpulan (Google Classroom/LMS) untuk journal + link Colab pasangan
+- [1] Notebook Colab template kosong (link dibagikan sebelum kelas)
+- [2] Slide singkat: alur besar mata kuliah (peta CLO-1 s/d CLO-5) + contoh dashboard data pembangkit untuk bagian B
+- [3] Soal diagnostik (bisa via Mentimeter/Google Form/kertas)
+- [4] Lembar instruksi studi kasus berpasangan (bagian H) — bisa dicetak atau dibagikan lewat LMS
+- [5] Link pengumpulan (Google Classroom/LMS) untuk journal + link Colab pasangan
